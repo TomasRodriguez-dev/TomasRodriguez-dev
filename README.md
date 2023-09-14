@@ -1,4 +1,4 @@
-<!-- Encabezado -->
+<!-- Header -->
 
 <div>
   <h1 align="center">
@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- Cuerpo -->
+<!-- Main -->
 
 ## <picture><img src = "https://github.com/TomasRodriguez-dev/TomasRodriguez-dev/assets/102562595/d77f840c-70ed-4447-b139-f4e35eb27d2b" width = 50px></picture> **Acerca de mi**
 <br>
@@ -86,6 +86,30 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!-- Footer -->
 
+## <b>¡Contactame...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 
-
+<div align="left">
+  <ul>
+    <li>
+      <!-- WhatsApp -->
+      <a href="https://bit.ly/TomasJavierRodriguezOcampo" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-+5492994637975-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp de Tomas Javier Rodriguez Ocampo"> 
+      </a>
+    </li>
+    <li>
+      <!-- Gmail -->
+      <a href="rodrigueztomas411@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-rodrigueztomas411@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Correo Electronico de Tomas Javier Rodriguez Ocampo">  
+      </a>
+    </li>
+    <li>
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/tom%C3%A1s-javier-rodriguez-ocampo-0472a2252/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-TomasJavierRodriguezOcampo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn de Tomas Javier Rodriguez Ocampo">
+      </a>
+    </li>
+  </ul>
+</div>
