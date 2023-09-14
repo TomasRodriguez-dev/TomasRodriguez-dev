@@ -18,7 +18,7 @@
 - 👨🏽‍🎓 Soy recibido en Técnico en Programación.
 - ✏️ Actualmente estoy estudiando Desarrollo de Software Full Stack.
 - 🤓 Un apasionado por la resolución de problemas y el desarrollo de soluciones eficientes.
-- 😄 Experencia en desarrollo de aplicaciones web, aplicaciones mobile, manejo de bases de datos y colaboración en proyectos en equipo.
+- 😄 Experencia en desarrollo de aplicaciones web, aplicaciones mobile, bases de datos y colaboración en proyectos en equipo.
 - 🎯 Mi enfoque principal siempre va estar basado en el aprendizaje continuo y a la adaptación a las últimas tendencias tecnológicas.
 - ⏱️ Estoy ansioso por poder contribuir con mi experiencia y habilidades a un entorno dinámico y desafiante.
 
