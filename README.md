@@ -28,6 +28,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 
+<picture> <img align="right" src="https://github.com/TomasRodriguez-dev/TomasRodriguez-dev/assets/102562595/9e9f7290-deee-425b-9bbe-c0e7484843fe" width = 350px></picture>
+
 <h3>Lenguajes de Programacion:</h3>
 
 <div> 
