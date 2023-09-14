@@ -101,7 +101,7 @@
     </li>
     <li>
       <!-- Gmail -->
-      <a href="rodrigueztomas411@gmail.com" target="_blank">
+      <a href="mailto:rodrigueztomas411@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-rodrigueztomas411@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Correo Electronico de Tomas Javier Rodriguez Ocampo">  
       </a>
     </li>
