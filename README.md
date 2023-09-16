@@ -57,6 +57,8 @@
     <img alt="Bootstrap" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" width="80">
   &emsp;
     <img alt="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" width="80">
+  &emsp;
+    <img alt="MaterialUI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MaterialUI-Dark.svg" width="80">
 </div>
 <br>
 
